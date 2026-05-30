@@ -16,7 +16,7 @@ export const NATIONAL_CRISIS_RESOURCES: CrisisResource[] = [
   },
   {
     name: "Emergency",
-    detail: "If you are in immediate danger, call 9-1-1 or go to your nearest emergency department.",
+    detail: "If you are in immediate danger, call 911 or go to your nearest emergency department.",
     href: "tel:911",
   },
   {
