@@ -4,7 +4,7 @@ export default function LandingPage() {
   return (
     <main className="mx-auto max-w-prose px-5 py-12">
       <p className="text-sm font-medium uppercase tracking-wide text-clay-600">
-        Ajax Harwood Clinic
+        Menopause &amp; perimenopause
       </p>
       <h1 className="mt-2 text-3xl font-semibold leading-tight text-plum-900 sm:text-4xl">
         Am I in perimenopause?
@@ -50,8 +50,8 @@ export default function LandingPage() {
 
       <p className="mt-10 text-xs text-plum-500">
         For women and anyone experiencing menopause-related symptoms, age 35+.
-        This is a pilot tool. If you are in crisis, call or text 9-8-8, or call
-        9-1-1.
+        This is a pilot tool. If you’re in crisis, call or text 9-8-8 any time,
+        or call 911 in an emergency.
       </p>
     </main>
   );
